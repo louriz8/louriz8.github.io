@@ -1,0 +1,697 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    	<meta charset="UTF-8">
+    	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    	<title>MOON LANDING</title>
+  <style>
+        h1 {
+            font-family: Comic Sans MS;
+            font-size: 55px;
+	    color: #000000;
+    }
+	h2 {
+            font-family: Comic Sans MS;
+            font-size: 40px;
+	    color: #000000;
+    }
+	h3 {
+            font-family: Comic Sans MS;
+            font-size: 25px;
+	    color: #000000;
+    }
+       th, td {
+    border: 1px solid black;
+    padding: 0px;
+    text-align: left;
+  }
+</style>
+      <link rel="stylesheet" href="image.css"> 
+      <link rel="stylesheet" href="image2.css"> 
+      <link rel="stylesheet" href="image3.css"> 
+      <link rel="stylesheet" href="image4.css"> 
+</head>
+	<body background="C:\Users\LENOVO\Downloads\Untitled design.png">
+		<h1 style=" position: absolute;left:300px; top:10px;">-MOON LANDING-</h1>
+		<h2 style=" position: absolute;left:100px; top:150px;">Space Race</h2>
+		<h3 style=" position: absolute;left:100px; top:250px;">The Space Race was a defining competition between the United States <br> and the Soviet Union during the mid-20th century, marked by a fervent <br> quest for supremacy in space exploration and technology. <br><br>
+
+Beginning in the late 1950s, it was propelled by political, military, <br> and ideological tensions of the Cold War era. The launch of the Soviet <br> satellite Sputnik 1 in 1957 marked the start of this intense rivalry, <br> triggering fear and astonishment in the West. The subsequent milestones, <br> including Yuri Gagarin's orbit around the Earth in 1961 and the Apollo 11 <br> moon landing in 1969, captivated the world and showcased the technological <br> prowess of both nations. <br><br> 
+
+ As the rivalry intensified, each milestone reached <br> by one nation spurred the other to push the boundaries <br> further, driving rapid progress in space exploration. <br> The competition extended beyond the realm of <br> scientific achievement, becoming a symbol of ideological <br> superiority between the capitalist and communist blocs. <br> This fervent race led to significant technological <br>  advancements, including the development of <br> intercontinental ballistic missiles (ICBMs),<br> which would later shape global geopolitics.
+</h3>
+
+<img src="C:\Users\LENOVO\OneDrive\Desktop\c2ec036808851a740fa1bf6e5644160c.gif"  alt="Description of the image" class="moving-image">
+
+<img src="C:\Users\LENOVO\OneDrive\Desktop\Moon_landing_sites.svg.png"  alt="Description of the image" class="moving-images">
+
+ <img src="C:\Users\LENOVO\OneDrive\Desktop\Yutu_rover.jpg"  alt="Description of the image" class="moving-images2">
+
+ <img src="C:\Users\LENOVO\OneDrive\Desktop\ChangE-4_-_PCAM.png"  alt="Description of the image" class="moving-images3">
+
+		<h3 style=" position: absolute;left:100px; top:975px;"> <br><br> However, amidst the fervor of competition, there were also moments of <br> cooperation. Despite the tensions of the Cold War, both the United States <br> and the Soviet Union engaged in limited diplomatic exchanges and joint <br> ventures in space exploration. Notable examples include the Apollo-Soyuz <br> Test Project in 1975, where American and Soviet spacecraft docked in orbit,<br> symbolizing a brief detente amid the Cold War.<br> <br> 
+
+The legacy of the Space Race endures as a testament to humanity's collective<br> ambition to explore the unknown and push the boundaries of what is possible. <br> It serves as a reminder of the power of scientific discovery to transcend <br> political divides and inspire generations to dream of reaching for the stars. <br> Today, as nations collaborate on international space missions and private <br> companies embark on ambitious space exploration projects, the spirit of the Space <br> Race lives on, driving us ever closer to unlocking the mysteries of the universe.</h3>
+
+		<h2 style=" position: absolute;left:100px; top:1550px;">Time Line</h2>
+		<h3 style=" position: absolute;left:100px; top:1640px;"> Here is a brief timeline of the moon landing that was conducted by <br> different countries... </h3>
+		<h2 style=" position: absolute;left:100px; top:2350px;">How many?</h2>
+		<h3 style=" position: absolute;left:100px; top:2450px;"> 
+
+Early Soviet uncrewed lunar missions (1958–1965)<br><br>
+
+<table border="1">
+  <tr>
+    <th>Mission</th>
+    <th>Launch Date</th>
+    <th>Goal</th>
+    <th>Result</th>
+  </tr>
+  <tr>
+    <td>Luna-1</td>
+    <td>2 January 1959</td>
+    <td>Impact</td>
+    <td>Partial success – first spacecraft to <br> reach escape velocity, lunar flyby, <br>solar orbit; missed the Moon</td>
+
+  </tr>
+  <tr>
+    <td>Luna-2</td>
+    <td>12 September 1959</td>
+    <td>Impact</td>
+    <td>Success – first lunar impact</td>
+
+  </tr>
+  <tr>
+    <td>Luna-3</td>
+    <td>4 October 1959</td>
+    <td>Flyby</td>
+    <td>Success – first photos of lunar far<br> side</td>
+
+  </tr>
+  <tr>
+    <td>Sputnik-25</td>
+    <td>4 January 1963	</td>
+    <td>Landing</td>
+    <td>Failure – stranded in low Earth <br>orbit</td>
+
+  </tr>
+  <tr>
+    <td>Luna-4</td>
+    <td>2 April 1963	</td>
+    <td>Landing</td>
+    <td>Failure – lunar flyby at 8,000<br>kilometers (5,000 mi)</td>
+
+  </tr>
+  <tr>
+    <td>Cosmos-60</td>
+    <td>12 March 1965</td>
+    <td>Landing</td>
+    <td>Failure – stranded in low Earth<br> orbit</td>
+
+  </tr>
+  <tr>
+    <td>Luna-5</td>
+    <td>9 May 1965</td>
+    <td>Landing</td>
+    <td>Failure – lunar impact</td>
+
+  </tr>
+  <tr>
+    <td>Luna-6</td>
+    <td>8 June 1965</td>
+    <td>Landing</td>
+    <td>Failure – lunar flyby at 160,000<br> kilometers (99,000 mi)</td>
+
+  </tr>
+  <tr>
+    <td>Luna-7</td>
+    <td>4 October 1965</td>
+    <td>Landing</td>
+    <td>Failure – lunar impact</td>
+
+  </tr>  
+  <tr>
+    <td>Luna-8</td>
+    <td>3 December 1965</td>
+    <td>Landing</td>
+    <td>Failure – lunar impact during<br> landing attempt</td>
+
+  </tr>
+</table><br>
+
+Early U.S. uncrewed lunar missions (1958–1965)<br><br>
+<table border="1">
+  <tr>
+    <th>Mission</th>
+    <th>Launch Date</th>
+    <th>Goal</th>
+    <th>Result</th>
+
+  </tr>
+  <tr>
+
+    <th>Pioneer 0</th>
+    <th>17 August 1958</th>
+    <th>Lunar orbit</th>
+    <th>Failure – first stage <br>explosion; destroyed</th>
+
+  </tr>
+  <tr>
+
+    <th>Pioneer 1</th>
+    <th>11 October 1958</th>
+    <th>Lunar orbit</th>
+    <th>Failure – software error;<br> reentry</th>
+
+  </tr>
+  <tr>
+
+    <th>Pioneer 2</th>
+    <th>8 November 1958</th>
+    <th>Lunar orbit</th>
+    <th>Failure – third stage misfire;<br> reentry</th>
+
+  </tr>
+  <tr>
+
+    <th>Pioneer 3</th>
+    <th>6 December 1958</th>
+    <th>Flyby</th>
+    <th>Failure – first stage misfire,<br> reentry</th>
+
+  </tr>
+  <tr>
+
+    <th>Pioneer 4</th>
+    <th>3 March 1959</th>
+    <th>Flyby</th>
+    <th>Partial success – first US <br>craft to reachescape<br> velocity, lunar flyby too <br>far to shoot photos due <br>to targeting error; <br>solar orbit</th>
+
+  </tr>
+  <tr>
+
+    <th>Pioneer P-1</th>
+    <th>24 September 1959</th>
+    <th>Lunar orbit</th>
+    <th>Failure – pad explosion;<br> destroyed</th>
+
+  </tr>
+  <tr>
+
+    <th>Pioneer P-3</th>
+    <th>29 November 1959</th>
+    <th>Lunar orbit</th>
+    <th>Failure – payload shroud;<br> destroyed</th>
+
+  </tr>
+  <tr>
+
+    <th>Pioneer P-30</th>
+    <th>25 September 1960</th>
+    <th>Lunar orbit</th>
+    <th>Failure – second stage<br> anomaly; reentry</th>
+
+  </tr>
+  <tr>
+
+    <th>Pioneer P-31</th>
+    <th>15 December 1960</th>
+    <th>Lunar orbit</th>
+    <th>Failure – first stage<br> explosion; destroyed</th>
+
+  </tr>
+  <tr>
+    <th>Ranger 1</th>
+    <th>23 August 1961</th>
+    <th>Prototype test</th>
+    <th>Failure – upper stage<br> anomaly; reentry</th>
+
+  </tr>
+  <tr>
+
+    <th>Ranger 2</th>
+    <th>18 November 1961</th>
+    <th>Prototype test</th>
+    <th>Failure – upper stage <br>anomaly;reentry</th>
+
+  </tr>
+  <tr>
+    <th>Ranger 3</th>
+    <th>26 January 1962	</th>
+    <th>Landing</th>
+    <th>Failure – booster guidance; <br>solar orbit</th>
+
+  </tr>
+  <tr>
+
+    <th>Ranger 4</th>
+    <th>23 April 1962</th>
+    <th>Landing</th>
+    <th>Partial success – first U.S. <br>spacecraft to reach another<br> celestial body; crash <br>impact – no photos returned</th>
+
+  </tr>
+  <tr>
+
+    <th>Ranger 5</th>
+    <th>18 October 1962</th>
+    <th>Landing</th>
+    <th>Failure – spacecraft power;<br> solar orbit</th>
+
+  </tr>
+  <tr>
+
+    <th>Ranger 6</th>
+    <th>30 January 1964</th>
+    <th>Impact</th>
+    <th>Failure – spacecraft camera;<br> crash impact</th>
+
+  </tr>
+  <tr>
+
+    <th>Ranger 7</th>
+    <th>28 July 1964</th>
+    <th>Impact</th>
+    <th>Success – returned 4308 <br>photos, crash impact</th>
+
+  </tr>
+  <tr>
+
+    <th>Ranger 8</th>
+    <th>17 February 1965</th>
+    <th>Impact</th>
+    <th>Success – returned 7137 <br>photos, crash impact</th>
+
+  </tr> 
+ <tr>
+
+    <th>Ranger 9</th>
+    <th>21 March 1965</th>
+    <th>Impact</th>
+    <th>Success – returned 5814 <br>photos, crash impact</th>
+
+  </tr>
+</table><br>
+
+Soviet uncrewed soft landings (1966–1976)<br><br>
+<table border="1">
+  <tr>
+    <th>Mission</th>
+    <th>Launch Date</th>
+    <th>Goal</th>
+    <th>Result</th>
+
+  </tr>
+  <tr>
+    <th>Luna-9</th>
+    <th>31 January 1966</th>
+    <th>Landing</th>
+    <th>Success – first lunar soft <br>landing, numerous photos</th>
+
+  </tr>
+  <tr>
+    <th>Luna-13</th>
+    <th>21 December 1966</th>
+    <th>Landing</th>
+    <th>Success – second lunar soft<br> landing, numerous photos</th>
+
+  </tr>
+  <tr>
+    <th>Luna-15</th>
+    <th>13 July 1969</th>
+    <th>Sample return</th>
+    <th>Failure – lunar crash impact</th>
+
+  </tr>
+  <tr>
+    <th>Cosmos-300</th>
+    <th>23 September 1969</th>
+    <th>Sample return</th>
+    <th>Failure – stranded in low <br>Earth orbit</th>
+
+  </tr>
+  <tr>
+    <th>Cosmos-305</th>
+    <th>22 October 1969</th>
+    <th>Sample return</th>
+    <th>Failure – stranded in low <br>Earth orbit</th>
+
+  </tr>
+  <tr>
+    <th>Luna-16</th>
+    <th>12 September 1970</th>
+    <th>Sample return</th>
+    <th>Success – returned 0.10 kg <br>(0.22 lb) of Moon soil back <br>to Earth</th>
+
+  </tr>
+  <tr>
+    <th>Luna-17</th>
+    <th>10 November 1970</th>
+    <th>Lunar rover</th>
+    <th>Success – Lunokhod-1 rover<br> traveled 10.5 km (6.5 mi) <br>across lunar surface</th>
+
+  </tr>
+  <tr>
+    <th>Luna-18</th>
+    <th>2 September 1971</th>
+    <th>Sample return</th>
+    <th>Failure – lunar crash impact</th>
+
+  </tr>
+  <tr>
+    <th>Luna-20</th>
+    <th>14 February 1972</th>
+    <th>Sample return</th>
+    <th>Success – returned 0.05 kg <br>(0.11 lb) of Moon soil to Earth</th>
+
+  </tr>
+  <tr>
+    <th>Luna-21</th>
+    <th>8 January 1973</th>
+    <th>Lunar rover</th>
+    <th>Success – Lunokhod-2 rover <br>traveled 37.0 km (23.0 mi)<br> across the lunar surface</th>
+
+  </tr>
+  <tr>
+    <th>Luna-23</th>
+    <th>28 October 1974</th>
+    <th>Sample return</th>
+    <th>Failure – Moon landing achieved, <br>but malfunction prevented <br>sample return</th>
+
+  </tr>
+  <tr>
+    <th>Luna-204</th>
+    <th>9 August 1976</th>
+    <th>Sample return</th>
+    <th>Success – returned 0.17 kg <br>(0.37 lb) of Moon soil to Earth</th>
+
+  </tr>
+</table><br>
+
+U.S. uncrewed soft landings (1966–1968)<br><br>
+
+<table border="1">
+  <tr>
+    <th>Mission</th>
+    <th>Launch Date</th>
+    <th>Goal</th>
+    <th>Result</th>
+
+  </tr>
+  <tr>
+    <th>Surveyor 1</th>
+    <th>30 May 1966</th>
+    <th>Landing</th>
+    <th>Success – 11,000 pictures returned,<br> first U.S. Moon landing</th>
+
+  </tr>
+  <tr>
+    <th>Surveyor 2</th>
+    <th>20 September 1966</th>
+    <th>Landing</th>
+    <th>Failure – midcourse engine malfunction, <br>placing vehicle in unrecoverable tumble;<br> crashed southeast of Copernicus Crater</th>
+
+  </tr>  
+<tr>
+    <th>Surveyor 3</th>
+    <th>20 April 1967</th>
+    <th>Landing</th>
+    <th>Success – 6,000 pictures returned; <br>trench dug to 17.5 cm depth after</th>
+
+  </tr>
+  <tr>
+    <th>Surveyor 4</th>
+    <th>14 July 1967</th>
+    <th>Landing</th>
+    <th>Failure – radio contact lost 2.5 minutes <br>before touchdown; perfect automated<br>Moon landing possible but <br>outcome unknown</th>
+
+  </tr>
+  <tr>
+    <th>Surveyor 5</th>
+    <th>8 September 1967</th>
+    <th>Landing</th>
+    <th>Success – 19,000 photos returned,<br> first use of alpha scatter soil <br>composition monitor</th>
+
+  </tr> 
+ <tr>
+
+    <th>Surveyor 6</th>
+    <th>7 November 1967</th>
+    <th>Landing</th>
+    <th>Success – 30,000 photos returned, <br>robot arm and alpha scatter science,<br> engine restart, second landing <br>2.5 m away from first</th>
+
+ </tr>
+  <tr>
+
+    <th>Surveyor 7</th>
+    <th>7 January 1968</th>
+    <th>Landing</th>
+    <th>Success – 21,000 photos returned;<br> robot arm and alpha scatter science;<br> laser beams from Earth detected</th>
+
+  </tr>
+</table><br>
+
+Soviet lunar orbit satellites (1966–1974)<br><br>
+
+<table border="1">
+  <tr>
+    <th>U.S.S.R.Mission</th>
+    <th>Launch Date</th>
+    <th>Goal</th>
+    <th>Result</th>
+
+  </tr>
+  <tr>
+    <th>Cosmos – 111</th>
+    <th>1 March 1966</th>
+    <th>Lunar orbiter</th>
+    <th>Failure – stranded in low <br>Earth orbit</th>
+
+  </tr> 
+ <tr>
+    <th>Luna-10</th>
+    <th>31 March 1966</th>
+    <th>Lunar orbiter</th>
+    <th>Success – 2,738-by-2,088-<br> kilometers (1,701 mi × <br> 1,297 mi) × 72 deg orbit,<br> 178-meter (584 ft) period, <br>60-day science mission</th>
+
+  </tr>
+  <tr>
+
+    <th>Luna-11</th>
+    <th>24 August 1966</th>
+    <th>Lunar orbiter</th>
+    <th>Success – 2,931-by-1,898-<br> kilometer (1,821 mi ×<br> 1,179 mi) × 27 deg orbit,<br> 178-meter (584 ft) period, <br>38-day science mission</th>
+
+  </tr>
+  <tr>
+    <th>Luna-12</th>
+    <th>22 October 1966</th>
+    <th>Lunar orbiter</th>
+    <th>Success – 2,938-by-1,871-<br>kilometre (1,826 mi × <br>1,163 mi) × 10 deg orbit, <br>205-meter (673 ft) period,<br> 89-day science mission</th>
+
+  </tr> 
+ <tr>
+    <th>Cosmos-159</th>
+    <th>17 May 1967</th>
+    <th>Prototype test</th>
+    <th>Success – high Earth orbit<br> crewed landing communi-<br>cations gear radio<br> calibration test</th>
+
+  </tr>
+  <tr>
+    <th>Luna-14</th>
+    <th>7 April 1968</th>
+    <th>Lunar orbiter</th>
+    <th>Success – 870-by-160-<br>kilometer (541 mi ×<br> 99 mi) × 42 deg orbit, <br>160-meter (520 ft) period, <br>unstable orbit, <br>radio calibration test?</th>
+
+  </tr>
+  <tr>
+    <th>Luna-19</th>
+    <th>28 September 1971</th>
+    <th>Lunar orbiter</th>
+    <th>Success – 140-by-140-<br>kilometer (87 mi ×<br> 87 mi) × 41 deg orbit,<br> 121-meter (397 ft) period, <br>388-day science mission</th>
+
+  </tr> 
+ <tr>
+    <th>Luna-22</th>
+    <th>29 May 1974</th>
+    <th>Lunar orbiter</th>
+    <th>Success – 222-by-219-<br>kilometer (138 mi × <br>136 mi) × 19 deg orbit,<br> 130-meter (430 ft) period,<br> 521-day science mission</th>
+
+  </tr>
+</table>--Luna 10 became the first spacecraft to orbit the Moon on 3 April 1966.--<br><br>
+U.S. lunar orbit satellites (1966–1967)<br><br>
+
+<table border="1">
+  <tr>
+    <th>U.S.Mission</th>
+    <th>Launch Date</th>
+    <th>Goal</th>
+    <th>Result</th>
+  </tr>
+  <tr>
+    <th>Lunar Orbiter 1</th>
+    <th>10 August 1966</th>
+    <th>Lunar orbiter</th>
+    <th>Success – 1,160-by-189-<br>kilometer (721 mi × 117 mi) × <br>12 deg orbit, 208-meter<br> (682 ft) period, 80-day<br> photography mission</th>
+  </tr>
+  <tr>
+    <th>Lunar Orbiter 2</th>
+    <th>6 November 1966</th>
+    <th>Lunar orbiter</th>
+    <th>Success – 1,860-by-52-<br>kilometer (1,156 mi × 32 mi) × <br>12 deg orbit, 208-meter<br> (682 ft) period, 339-day<br> photography mission</th>
+  </tr>
+  <tr>
+    <th>Lunar Orbiter 3</th>
+    <th>5 February 1967</th>
+    <th>Lunar orbiter</th>
+    <th>Success – 1,860-by-52-<br>kilometer (1,156 mi × 32 mi) ×<br> 21 deg orbit, 208-meter<br> (682 ft) period, 246-day<br> photography mission</th>
+  </tr>
+  <tr>
+    <th>Lunar Orbiter 4</th>
+    <th>4 May 1967</th>
+    <th>Lunar orbiter</th>
+    <th>Success – 6,111-by-2,706-<br>kilometer (3,797 mi × 1,681 mi) <br>× 86 deg orbit, 721-meter <br>(2,365 ft) period, 180-day<br> photography mission</th>
+  </tr>
+  <tr>
+    <th>Lunar Orbiter 5</th>
+    <th>1 August 1967</th>
+    <th>Lunar orbiter</th>
+    <th>Success – 6,023-by-195-<br>kilometer (3,743 mi × 121 mi) ×<br> 85 deg orbit, 510-meter<br> (1,670 ft) period, 183-day <br>photography mission</th>
+  </tr>
+</table><br>
+Soviet circumlunar loop flights (1967–1970)<br><br>
+
+<table border="1">
+  <tr>
+    <th>U.S.S.R.Mission</th>
+    <th>Launch Date</th>
+    <th>Goal</th>
+    <th>Result</th>
+</tr>
+  <tr>
+    <th>Cosmos-146</th>
+    <th>10 March 1967</th>
+    <th>High Earth Orbit</th>
+    <th>Partial success – <br>Successfully reached <br>high Earth orbit,<br> but became stranded <br>and was unable <br>to initiate controlled <br> high-speed atmospheric <br>reentry test</th>
+</tr>
+  <tr>
+    <th>Cosmos-154</th>
+    <th>8 April 1967</th>
+    <th>High Earth Orbit</th>
+    <th>Partial success – <br>Successfully reached <br>high Earth orbit, but<br> became stranded <br>and was unable <br>to initiate controlled <br>high-speed atmospheric<br> reentry test</th>
+</tr>
+  <tr>
+    <th>Zond-4</th>
+    <th>2 March 1968</th>
+    <th>High Earth Orbit</th>
+    <th>Partial success –<br> launched successfully <br>to 300,000 km <br>(190,000 mi) <br>high Earth orbit, <br>high-speed reentry <br>test guidance malfunction, <br>intentional self-destruct <br>to prevent landfall outside<br>the Soviet Union</th>
+</tr>
+ <tr>
+    <th>Zond-5</th>
+    <th>15 September 1968</th>
+    <th>Circumlunar Loop</th>
+    <th>Success – looped<br> around the Moon with <br>Earth's first near-<br>lunar life forms,<br> two tortoises, <br>and other live biological <br>specimens, and the capsule<br> and payload safely<br> to Earth despite landing <br>off-target outside <br>the Soviet Union in<br> the Indian Ocean</th>
+</tr>
+  <tr>
+    <th>Zond-6</th>
+    <th>10 November 1968</th>
+    <th>Circumlunar Loop</th>
+    <th>Partial success – looped <br>around Moon, <br>successful reentry,<br> but the loss of cabin<br> air pressure caused<br> biological payload death, <br>parachute system <br>malfunction, and severe<br> vehicle damage <br>upon landing</th>
+</tr>
+  <tr>
+    <th>Zond-7</th>
+    <th>8 August 1969</th>
+    <th>Circumlunar Loop</th>
+    <th>Success – looped <br>around the Moon,<br> returned biological <br>payload safely to Earth, <br>and landed on target <br>inside the Soviet Union.<br> Only Zond mission whose<br> reentry G-forces <br>would have been survivable<br> by human crew had they <br>been aboard.</th>
+</tr>
+  <tr>
+    <th>Zond-8</th>
+    <th>20 October 1970</th>
+    <th>Circumlunar Loop</th>
+    <th>Success – looped around<br> Moon, returned biological <br>payload safely to Earth<br> despite landing off-target <br>outside the Soviet Union in<br> the Indian Ocean</th>
+</tr>
+
+</table><br>
+Human Moon landings (1969–1972)<br><br>
+<table border="1">
+  <tr>
+    <th>Mission</th>
+    <th>Launch Date</th>
+    <th>Liftoff Date</th>
+    <th>crew</th>
+
+  </tr>
+  <tr>
+    <th>Apollo 11</th>
+    <th>20 July 1969</th>
+    <th>21 July 1969</th>
+    <th>Neil Armstrong, <br>Edwin "Buzz" Aldrin</th>
+
+  </tr>
+  <tr>
+    <th>Apollo 12</th>
+    <th>19 November 1969</th>
+    <th>21 November 1969</th>
+    <th>Charles "Pete" Conrad,<br> Alan Bean</th>
+
+  </tr>
+  <tr>
+    <th>Apollo 14</th>
+    <th>5 February 1971</th>
+    <th>6 February 1971</th>
+    <th>Alan B. Shepard,<br> Edgar Mitchell</th>
+
+  </tr>
+  <tr>
+    <th>Apollo 15</th>
+    <th>30 July 1971</th>
+    <th>2 August 1971</th>
+    <th>David Scott, <br>James Irwin</th>
+
+  </tr>
+  <tr>
+    <th>Apollo 16</th>
+    <th>21 April 1972</th>
+    <th>24 April 1972</th>
+    <th>John Young,<br> Charles Duke</th>
+
+  </tr>
+  <tr>
+    <th>Apollo 17</th>
+    <th>11 December 1972</th>
+    <th>14 December 1972</th>
+    <th>Eugene Cernan, <br>Harrison "Jack" Schmitt</th>
+
+  </tr>
+</table><br>
+</h3>
+		<h2 style=" position: absolute;left:100px; top:12325px;">Other Attempts</h2>
+		<h3 style=" position: absolute;left:100px; top:12425px;">21st century uncrewed soft landings and attempts<br><br></h3>
+
+		<h3 style=" position: absolute;left:100px; top:12500px;"> Chang'e 3 (China)<br><br>
+Chang'e 3 made a soft landing on the Moon at 13:12<br> UTC on December 14, 2013. This was the world's <br>first lunar soft landing since Luna 24 on August 22, <br>1976, and China's first soft landing on another <br> celestial body. The mission began operating on<br> December 1st, 2013. The Yutu rover was launched<br> by the lander following the successful landing, and it<br> traveled 114 meters before a system error rendered <br>it immobile. But the rover continued to function until July 2016.<br><br></h3>
+
+		<h3 style=" position: absolute;left:100px; top:12950px;">Chang'e 4 (China)<br><br></h3>
+
+
+		<h3 style=" position: absolute;left:400px; top:13035px;">Chang'e 4 became the first spacecraft to land on the<br> Moon's far side on January 3, 2019, at 2:26 UTC. <br>Chang'e 4 was initially intended to be Chang'e 3's backup.<br> Following Chang'e 3's success, it was subsequently modified <br> to become a mission to the far side of the Moon.<br> Following a successful landing in the Von Kármán crater,<br> the Chang'e 4 lander started the first-ever close <br>exploration of the Moon's far side by deploying the <br> 140-kilogram (310 lb) Yutu-2 rover.<br><br></h3>
+
+<h3 style=" position: absolute;left:100px; top:13340px;">A few months before the landing, Queqiao, a relay satellite, was launched to the <br>Earth-Moon L2 Lagrangian point to facilitate communications between the far <br>side and Earth because the Moon inhibits communication between them.<br><br><br>
+
+Beresheet (Israel/SpaceIL)<br><br>
+
+Intending to make a soft landing, Israeli private space company SpaceIL launched <br> its spacecraft Beresheet on a Falcon 9 from Cape Canaveral, Florida on February <br> 22, 2019. On April 11, 2019, SpaceIL lost communication with the spacecraft<br> during its final descent; a major engine failure caused it to crash.<br><br><br>
+
+Chandrayaan-2 (India)<br><br>
+
+On July 22, 2019, the Indian National Space Agency, or ISRO, launched <br> Chandrayaan-2. The orbiter, lander, and rover were its three main modules.<br> Scientific equipment from US and Indian research institutes was included in<br> each of these modules. After a difficult braking phase, communication with the<br> Vikram lander was lost on September 7, 2019, at a height of 2.1 kilometers <br>(1.3 mi). It was eventually determined that Vikram had crashed and burned up.<br><br><br>
+
+Luna 25 (Russia)<br><br>
+
+On August 19, 2023, the Luna 25 spacecraft failed during "pre-landing" maneuvers <br> and crashed onto the lunar surface, marking Russia's first lunar landing attempt <br>since 1976 and the collapse of the Soviet Union.<br><br><br>
+
+MADE BY:GALE EBORA
+
+
+
+	</body>
+</html>
