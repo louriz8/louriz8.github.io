@@ -1,0 +1,7 @@
+.moving-images3 {
+    position: relative;
+    left: -200px; 
+    top: 12510px; 
+    width: 290px;
+    height: 270px;
+}
