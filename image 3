@@ -1,0 +1,7 @@
+.moving-images2 {
+    position: relative;
+    left: 750px; 
+    top: 12040px; 
+    width: 290px;
+    height: 270px;
+}
