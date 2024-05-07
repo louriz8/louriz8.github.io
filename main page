@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Main Page</title>
+<style>
+
+body {
+font-family: georgia, sans-serif;
+}
+
+header {
+background-color: rgb(231, 177, 115);
+padding: 0.5px;
+background-size:auto;
+text-align: center;
+font-size: 40px;
+color: black;
+}
+
+article {
+float: right;
+padding: 40px;
+text-align: justify;
+width: 75%;
+background-color: rgb(194, 205, 214);
+height: 204px; 
+}
+
+section::after {
+content: " ";
+display: table;
+clear: both;
+}
+
+footer {
+background-color: bisque;
+padding: 1px;
+text-align: center;
+color: black;
+}
+
+</style>
+</head>
+<body>
+
+    <h2><center>We are driven to explore the unknown, discover new worlds, push the boundaries of<br>our 
+        scientific and technical limits, and then push further.</h2>
+<p><center><i>- The National Aeronautics and Space Administration (NASA)</i></center></p>
+
+
+<header>
+<h2><b>Moon Landing</b></h2>
+</header>
+
+<article>
+<section>
+    <a href="C:\Users\Marja\Desktop\Coding\Apollo 11\Apollo 11 - First Page Website.html">What events happened before Apollo 11?</a> <br>
+    <a href="C:\Users\Marja\Desktop\Coding\Apollo 11\Page2.html">2nd Page</a> <br>
+    <a href="C:\Users\Marja\Desktop\Coding\Apollo 11\Page3.html.html">3rd Page</a>
+
+</article>    
+</section>
+
+<footer>
+<p> </p>
+</footer>
+
+</body>
+</html>
