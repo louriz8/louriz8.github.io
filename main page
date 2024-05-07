@@ -9,8 +9,8 @@ font-family: georgia, sans-serif;
 }
 
 header {
-background-color: rgb(231, 177, 115);
-padding: 0.5px;
+background-color: rgb(222,184,135);
+padding: .5px;
 background-size:auto;
 text-align: center;
 font-size: 40px;
@@ -21,9 +21,9 @@ article {
 float: right;
 padding: 40px;
 text-align: justify;
-width: 75%;
-background-color: rgb(194, 205, 214);
-height: 204px; 
+width: 90%;
+background-color: black
+height: 1000px; 
 }
 
 section::after {
@@ -38,29 +38,32 @@ padding: 1px;
 text-align: center;
 color: black;
 }
-
+a { 
+ font-family: Comic Sans MS;
+            font-size: 35px;
+	    color: #000000;
+}
 </style>
-</head>
 <body>
 
-    <h2><center>We are driven to explore the unknown, discover new worlds, push the boundaries of<br>our 
-        scientific and technical limits, and then push further.</h2>
-<p><center><i>- The National Aeronautics and Space Administration (NASA)</i></center></p>
+    
 
 
 <header>
-<h2><b>Moon Landing</b></h2>
+<h2><b> -The Moon Landing-</b></h2>
 </header>
 
 <article>
 <section>
-    <a href="C:\Users\Marja\Desktop\Coding\Apollo 11\Apollo 11 - First Page Website.html">What events happened before Apollo 11?</a> <br>
-    <a href="C:\Users\Marja\Desktop\Coding\Apollo 11\Page2.html">2nd Page</a> <br>
-    <a href="C:\Users\Marja\Desktop\Coding\Apollo 11\Page3.html.html">3rd Page</a>
+   <center> <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><a href="C:\Users\LENOVO\Downloads\Apollo 11 - First Page Website.html"> What events happened before Apollo 11?          </a><br><br><br><br><br><br>
+   <br><br><br><br><br><br><br><br><br><br><br><br><br><br><a href="C:\Users\LENOVO\OneDrive\Desktop\!DOCTYPE html.html">The Influence of Apollo Missions around the world       </a> <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    <a href="C:\Users\LENOVO\Downloads\Page 3.html">What events happened after Apollo 11?</a> </center>
 
 </article>    
 </section>
+		<body background="C:\Users\LENOVO\Downloads\main pageski (4).png"no repeat>
 
+<h1 style=" position: absolute;left:100px; top:1500px;">Made by: Gale Ebora, Elaina Blocker, Marja Tiangco<br><br><br></h1>
 <footer>
 <p> </p>
 </footer>
